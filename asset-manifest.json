@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/minebank/static/css/main.ab7564ab.chunk.css",
-    "main.js": "/minebank/static/js/main.a8c8bf05.chunk.js",
-    "main.js.map": "/minebank/static/js/main.a8c8bf05.chunk.js.map",
+    "main.js": "/minebank/static/js/main.bd4922fa.chunk.js",
+    "main.js.map": "/minebank/static/js/main.bd4922fa.chunk.js.map",
     "runtime-main.js": "/minebank/static/js/runtime-main.2f82b26a.js",
     "runtime-main.js.map": "/minebank/static/js/runtime-main.2f82b26a.js.map",
     "static/js/2.3f3d0e1f.chunk.js": "/minebank/static/js/2.3f3d0e1f.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.2f82b26a.js",
     "static/js/2.3f3d0e1f.chunk.js",
     "static/css/main.ab7564ab.chunk.css",
-    "static/js/main.a8c8bf05.chunk.js"
+    "static/js/main.bd4922fa.chunk.js"
   ]
 }
