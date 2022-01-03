@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/minebank/static/css/main.dc5e2622.chunk.css",
-    "main.js": "/minebank/static/js/main.75381e10.chunk.js",
-    "main.js.map": "/minebank/static/js/main.75381e10.chunk.js.map",
+    "main.css": "/minebank/static/css/main.790fa16e.chunk.css",
+    "main.js": "/minebank/static/js/main.1f98b693.chunk.js",
+    "main.js.map": "/minebank/static/js/main.1f98b693.chunk.js.map",
     "runtime-main.js": "/minebank/static/js/runtime-main.c4bcd719.js",
     "runtime-main.js.map": "/minebank/static/js/runtime-main.c4bcd719.js.map",
     "static/js/2.6cdd68a3.chunk.js": "/minebank/static/js/2.6cdd68a3.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.5d1bb811.chunk.js": "/minebank/static/js/3.5d1bb811.chunk.js",
     "static/js/3.5d1bb811.chunk.js.map": "/minebank/static/js/3.5d1bb811.chunk.js.map",
     "index.html": "/minebank/index.html",
-    "static/css/main.dc5e2622.chunk.css.map": "/minebank/static/css/main.dc5e2622.chunk.css.map",
+    "static/css/main.790fa16e.chunk.css.map": "/minebank/static/css/main.790fa16e.chunk.css.map",
     "static/js/2.6cdd68a3.chunk.js.LICENSE.txt": "/minebank/static/js/2.6cdd68a3.chunk.js.LICENSE.txt",
     "static/media/back.58553c7d.svg": "/minebank/static/media/back.58553c7d.svg",
     "static/media/profile.18e6d1ec.png": "/minebank/static/media/profile.18e6d1ec.png"
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.c4bcd719.js",
     "static/js/2.6cdd68a3.chunk.js",
-    "static/css/main.dc5e2622.chunk.css",
-    "static/js/main.75381e10.chunk.js"
+    "static/css/main.790fa16e.chunk.css",
+    "static/js/main.1f98b693.chunk.js"
   ]
 }
